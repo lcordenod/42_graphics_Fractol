@@ -44,6 +44,8 @@ Here is an example of the Mandelbrot set in shades of grey I represented:
 
 ## Enjoy beautiful fractals!
 
+Here are some fractal examples you can visualize on this program:
+
 <p>
   <img width="800" src="https://user-images.githubusercontent.com/45239771/53593075-05ce8880-3b98-11e9-9142-2176f99b259b.png">
 </p>
