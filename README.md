@@ -39,3 +39,30 @@ Here is an example of the Mandelbrot set in shades of grey I represented:
 ` "julia", "mandelbrot", "burning_ship", "electricity", "cross"`
 *(like "./fractol mandelbrot" for example)*
 3. You can interact with the object using these bindings:
+
+![screen shot 2019-02-28 at 8 25 46 pm](https://user-images.githubusercontent.com/45239771/53592673-129eac80-3b97-11e9-870e-f1d082a81542.png)
+
+## Enjoy beautiful fractals!
+
+<p>
+  <img width="800" src="https://user-images.githubusercontent.com/45239771/53593075-05ce8880-3b98-11e9-9142-2176f99b259b.png">
+</p>
+<p align=center><i>Julia set with RBG colors 1</i></p>
+<p>
+  <img width="800" src="https://user-images.githubusercontent.com/45239771/53592955-ab352c80-3b97-11e9-8c66-572378d095cc.png">
+</p>
+<p align=center><i>Burning Ship set with RBG colors 2</i></p>
+<p>
+  <img width="800" src="https://user-images.githubusercontent.com/45239771/53592957-acfef000-3b97-11e9-9b14-427c62e24ba5.png">
+</p>
+<p align=center><i>Mandelbrot set zoomed in with Red shades</i></p>
+
+*Don't forget to use bindings presented above to play with fractals!*
+
+## Make options
+
+Makefile allows you to do several "make" actions including:
+* `make` -> compile and create binary
+* `make clean` -> remove .o files
+* `make fclean` -> remove .o files and binary
+* `make re` -> make fclean + make
